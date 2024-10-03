@@ -1,8 +1,8 @@
-### Olá! Me chamo Gabriel Demétrio e seja bem-vindo ao meu perfil!
-💻 | Atualmente cursando Desenvolvimento de Sistemas
+### Hello! I am Gabriel and welcome to my profile!
+💻 | Currently studying Systems Development
 
   ##
-  ### Skills & Ferramentas
+  ### Skills & Tools
   ##
   
 <div style="display: inline_block"><br>
