@@ -1,3 +1,5 @@
+<img align="right" height="112px" width="150px" src="Assets/giphy.webp">
+
 ### Hello! I am Gabriel and welcome to my profile!
 💻 | Currently studying Systems Development
 
