@@ -1,8 +1,8 @@
-<img align="right" height="112px" width="150px" src="Assets/giphy.webp">
+<img align="right" height="130px" width="170px" src="Assets/giphy.webp">
 
 ### Hello! I am Gabriel and welcome to my profile!
 
-💻 | Currently studying Systems Development
+💻 | Currently studying Systems Development <br>
 🐍 | Dedicating myself to Data Science in Python
 
   ##
