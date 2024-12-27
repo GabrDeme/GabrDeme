@@ -2,7 +2,7 @@
 
 ### Hello! I am Gabriel and welcome to my profile!
 
-💻 | Currently studying Systems Development <br>
+💻 | Systems Developer <br>
 🐍 | Dedicating myself to Data Science in Python
 
   ##
