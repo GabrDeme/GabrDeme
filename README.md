@@ -3,7 +3,8 @@
 ### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px"> Hello! I am Gabriel and welcome to my profile!
 
 💻 | FullStack Developer <br>
-🐍 | Data Scientist
+🐍 | Data Scientist <br>
+👅 | English | Portuguese | Spanish
 
   ##
 
@@ -35,6 +36,7 @@
   
 <div align="center" height="30">
   <a href="https://www.linkedin.com/in/gabriel-dem%C3%A9trio-a06820275/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Lattes-red?style=for-the-badge&logo"/></a>
 </div>
 
   <div align="center">
